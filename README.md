@@ -1,9 +1,10 @@
 # Semesterarbeit-Aufgabenteil1
 
-Command Line Interface  ->auslesen von Informationen aus unterschiedlichen Datenquellen(XML, CVS)
-                        ->zwischenspeichern
-                        ->durchsuchen
-                        ->in neues Format überführen
+Command Line Interface  
+->auslesen von Informationen aus unterschiedlichen Datenquellen(XML, CVS)
+->zwischenspeichern
+->durchsuchen
+->in neues Format überführen
                         
 Anwendungsfall:
 
