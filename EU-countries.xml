@@ -1,0 +1,170 @@
+<Europa>
+	<country id="0003">
+		<name>Austria</name>
+		<capital>Vienna</capital>
+		<size>83.879</size>
+		<population>8576261</population>
+	</country>
+	<country id="0372">
+		<name>Belgium</name>
+		<capital>Brussels</capital>
+		<size>30.528</size>
+		<population>11258434</population>
+	</country>
+	<country id="7234">
+		<name>Bulgaria</name>
+		<capital>Sofia</capital>
+		<size>110.994</size>
+		<population>7202198</population>
+	</country>
+	<country id="6452">
+		<name>Croatia</name>
+		<capital>Zagreb</capital>
+		<size>56.594</size>
+		<population>4225316</population>
+	</country>
+	<country id="0912">
+		<name>Cyprus</name>
+		<capital>Nicosia</capital>
+		<size>9.251</size>
+		<population>847008</population>
+	</country>
+	<country id="1894">
+		<name>Czech Republic</name>
+		<capital>Prague</capital>
+		<size>78.866</size>
+		<population>10538275</population>
+	</country>
+	<country id="7320">
+		<name>Denmark</name>
+		<capital>Copenhagen</capital>
+		<size>42.924</size>
+		<population>5659715</population>
+	</country>
+	<country id="6543">
+		<name>Estonia</name>
+		<capital>Tallinn</capital>
+		<size>45.227</size>
+		<population>1313271</population>
+	</country>
+	<country id="0295">
+		<name>Finland</name>
+		<capital>Helsinki</capital>
+		<size>338.424</size>
+		<population>5471753</population>
+	</country>
+	<country id="0235">
+		<name>France</name>
+		<capital>Paris</capital>
+		<size>643.801</size>
+		<population>66415161</population>
+	</country>
+	<country id="0925">
+		<name>Germany</name>
+		<capital>Berlin</capital>
+		<size>357.386</size>
+		<population>81197537</population>
+	</country>	
+	<country id="9235">
+		<name>Greece</name>
+		<capital>Athens</capital>
+		<size>131.957</size>
+		<population>10858018</population>
+	</country>	
+	<country id="8238">
+		<name>Hungary</name>
+		<capital>Budapest</capital>
+		<size>93.030</size>
+		<population>9855571</population>
+	</country>	
+	<country id="5571">
+		<name>Ireland</name>
+		<capital>Dublin</capital>
+		<size>70.273</size>
+		<population>4628949</population>
+	</country>	
+	<country id="0283">
+		<name>Italy</name>
+		<capital>Rome</capital>
+		<size>301.338</size>
+		<population>60795612</population>
+	</country>	
+	<country id="5583">
+		<name>Lativa</name>
+		<capital>Riga</capital>
+		<size>64.589</size>
+		<population>1986096</population>
+	</country>	
+	<country id="0633">
+		<name>Lithuania</name>
+		<capital>Vilnius</capital>
+		<size>65.300</size>
+		<population>2921262</population>
+	</country>	
+	<country id="0134">
+		<name>Luxembourg</name>
+		<capital>Luxembourg</capital>
+		<size>2.586</size>
+		<population>562958</population>
+	</country>	
+	<country id="2356">
+		<name>Malta</name>
+		<capital>Valletta</capital>
+		<size>316</size>
+		<population>429344</population>
+	</country>	
+	<country id="8546">
+		<name>Netherlands</name>
+		<capital>Amsterdam</capital>
+		<size>41.543</size>
+		<population>16900726</population>
+	</country>	
+	<country id="4727">
+		<name>Poland</name>
+		<capital>Warsaw</capital>
+		<size>312.679</size>
+		<population>38005614</population>
+	</country>	
+	<country id="9392">
+		<name>Portugal</name>
+		<capital>Lisbon</capital>
+		<size>92.212</size>
+		<population>10374822</population>
+	</country>	
+	<country id="3457">
+		<name>Romania</name>
+		<capital>Bucharest</capital>
+		<size>238.397</size>
+		<population>19870647</population>
+	</country>	
+	<country id="0683">
+		<name>Slovakia </name>
+		<capital>Bratislava</capital>
+		<size>49.035</size>
+		<population>2062874</population>
+	</country>	
+	<country id="3893">
+		<name>Slovenia</name>
+		<capital>Ljubljana</capital>
+		<size>20.273</size>
+		<population>5421349</population>
+	</country>	
+	<country id="0345">
+		<name>Spain</name>
+		<capital>Madrid</capital>
+		<size>505.990</size>
+		<population>46449565</population>
+	</country>	
+	<country id="9991">
+		<name>Sweden</name>
+		<capital>Stockholm</capital>
+		<size>450.295</size>
+		<population>9747355</population>
+	</country>	
+	<country id="2349">
+		<name>United Kingdom </name>
+		<capital>London</capital>
+		<size>242.495</size>
+		<population>64875165</population>
+	</country>	
+</Europa>

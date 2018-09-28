@@ -1,0 +1,9 @@
+<!ELEMENT Europa (country*)>
+<!ELEMENT country (name, capital, size, population, languages*)>
+<!ATTLIST country id CDATA #REQUIRED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT population (#PCDATA)>
+<!ELEMENT languages (language)>
+<!ELEMENT language (#PCDATA)>
