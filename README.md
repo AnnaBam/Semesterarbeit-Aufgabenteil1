@@ -8,4 +8,5 @@ Command Line Interface
                         
 Anwendungsfall:
 
-Es gibt eine XML-Datei mit grundlegenden Informationen über die Mitgliedsländer der Europäischen Union und eine CVS-Datei in dem Ländern mehreren Sprachen zugeordnet sind. Mit Hilfe dieses Programmes sollen die zwei Dateien in eine neue XML-Datei konvertiert werden. Auch soll es möglich werden neue Länder einzutragen und alte zu löschen.
+Die Anwendung des Programms liegt in der Erstellung einer Datenbank über die Mitgliedsländer von Europa.
+Es gibt eine XML-Datei mit grundlegenden Informationen über die Mitgliedsländer der Europäischen Union und eine CSV-Datei in der Ländern mehreren Sprachen zugeordnet sind. Mit Hilfe dieses Programmes sollen die zwei Dateien in eine neue XML-Datei konvertiert werden. 
