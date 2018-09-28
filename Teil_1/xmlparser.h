@@ -1,0 +1,5 @@
+class xmlparser
+{
+public:
+    xmlparser();
+};
